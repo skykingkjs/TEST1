@@ -1,3 +1,3 @@
-it must be fuck
+it must not be fuck
 
 it may be good
